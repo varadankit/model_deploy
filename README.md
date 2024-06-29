@@ -23,7 +23,7 @@ This project implements a machine learning model to classify Iris flower species
 4. Deploy to Azure Container Instances using the Azure CLI or Azure Portal
 
 ## API Usage
-Send a POST request to API (http://model-hegde.fcd2hxetacfxbtdq.japaneast.azurecontainer.io:5000/classify) with JSON data:
+Send a POST request to API (Refer to Report) with JSON data:
 
 ```json
 {
