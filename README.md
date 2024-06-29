@@ -40,5 +40,5 @@ Examples:
 {"sepal_length_cm": 5.1,"sepal_width_cm": 3.5,"petal_length_cm": 1.4,"petal_width_cm": 0.2} //setosa
 {"sepal_length_cm": 6.4,"sepal_width_cm": 3.2,"petal_length_cm": 4.5,"petal_width_cm": 1.5} //versicolor 
 {"sepal_length_cm": 7.7,"sepal_width_cm": 3.0,"petal_length_cm": 6.1,"petal_width_cm": 2.3}  //virginica
-{"sepal_length_cm": 5.1,"sepal_width_cm": 3.5, "petal_length_cm": 1.4} //error
+{"sepal_length_cm": 5.1,"sepal_width_cm": 3.5, "petal_length_cm": 1.4} //request with value missing
 ```
